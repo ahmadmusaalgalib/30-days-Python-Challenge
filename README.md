@@ -1,2 +1,4 @@
 # 30-days-Python-Challenge
-Python Learnner
+30 Days of Python: Daily Python projects while learning with friends.
+
+
