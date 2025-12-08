@@ -1,18 +1,25 @@
 #Arithmetic_Operator(+,-,*,/,%)
 
-#for positive
+#for Addition
 print(5+2)
-#for negative
+#for Subtraction
 print(5-2)
-#for multiplication
+#for Multiplication
 print(5*2)
-#for Divide
+#for Division
 print(5/2)
 '''
 some case we don't need floating value in 
-that time we use(//)for integer value
+that time we use this operator " Floor 
+division (//)"for integer value
 '''
 print(5//2)
 
-#for modulo or reminder
+#for Modulus or Remainder
 print(5%2)
+'''
+some cases we need to power the value in that time
+we use this operator " Exponentiation (**)"for
+power the value 
+'''
+print(5**2)
