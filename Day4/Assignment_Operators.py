@@ -11,7 +11,7 @@ print(a)
 a*=b
 print(a)
 #for Division
-a//=b
+a/=b
 print(a)
 #for Modulus
 a%=b
