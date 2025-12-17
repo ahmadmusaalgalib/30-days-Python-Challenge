@@ -32,9 +32,21 @@ print(v * 2)
 
 '''
 
-def sum(a , b):
+'''def sum(a , b):
     print(a+b)
 
 
-sum(5,10)
+sum(5,10)'''
+
+
+def sumof3numbers(a,b,c):
+    sum=a+b+c
+    total=sum//2
+    print(total)
+
+
+
+sumof3numbers(2,2,6)
+sumof3numbers(2,4,6)
+
 
